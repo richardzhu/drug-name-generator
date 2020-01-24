@@ -34,6 +34,10 @@ Here were the notebooks I used, and the steps they perform:
 
 There's also extra code here to run a Twitter bot that tweets out new drug names.
 
+Learn more about how drugs are named here:
+* [How do drugs get named?](https://journalofethics.ama-assn.org/article/how-do-drugs-get-named/2019-08)
+* [The art of drug naming](https://www.cnn.com/2016/11/25/health/art-of-drug-naming/index.html)
+
 ## Deploy steps
 
 Spin up a GCE instance and run `./sync-to-dev.sh`.
