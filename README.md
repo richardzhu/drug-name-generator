@@ -30,7 +30,7 @@ has released a database of most drugs approved since 1939, which you can downloa
 
 Here were the notebooks I used, and the steps they perform:
 * `clean-drug-name-data.ipynb`: Loading + filtering data, cleaning out simple words and idiosyncratic occurrences of punctuation and other characters
-* `proto-textgenrnn`: Training a `textgenrnn` on the data, generating lots of drug names, and saving them to a file.
+* `proto-textgenrnn.ipynb`: Training a `textgenrnn` on the data, generating lots of drug names, and saving them to a file.
 
 There's also extra code here to run a Twitter bot that tweets out new drug names.
 
